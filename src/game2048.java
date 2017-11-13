@@ -1,5 +1,5 @@
-//Celia Choy
-//2048 game 
+// Celia Choy
+// 2048 game 
 
 import java.applet.*;
 import java.awt.*;
