@@ -1,6 +1,4 @@
-//cs201
-//final project
-//Celia Choy and Shan Zeng
+//Celia Choy
 //2048 game 
 
 import java.applet.*;
